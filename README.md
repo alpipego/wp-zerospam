@@ -3,7 +3,7 @@ wp-zerospam
 
 Plugin to get rid of WordPress Comment Spam, Akismet fails to do so even on low traffic sites.
 
-The idea is loosely based on the negative CAPTCHA and/or honey pot technique and the method used by [David Walsh](http://davidwalsh.name/wordpress-comment-spam). 
+The idea is loosely based on the negative CAPTCHA and/or honey pot technique and the method used by [David Walsh](http://davidwalsh.name/wordpress-comment-spam).
 
 The assumption to get this to work is that you use either the original wordpress comment form or one that uses the `respond` ID on the form itself.
 
