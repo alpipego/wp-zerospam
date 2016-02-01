@@ -1,0 +1,10 @@
+{
+    "name": "alpipego/zerospam",
+    "description": "A WordPress Plugin to get rid of comment spam as Akisment/Anti Spam Bee an alike all failed. Loosely based on a technique I have been using for years in contact forms and http://davidwalsh.name/wordpress-comment-spam",
+    "license": "MIT",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.5",
+        "composer/installers": "~1.0"
+    }
+}
